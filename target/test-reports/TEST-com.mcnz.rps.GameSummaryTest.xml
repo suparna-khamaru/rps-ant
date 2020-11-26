@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="THINKSTATION" name="com.mcnz.rps.GameSummaryTest" skipped="0" tests="4" time="0.114" timestamp="2020-11-26T22:48:00">
+  <properties>
+    <property name="sun.desktop" value="windows" />
+    <property name="ant.library.dir" value="C:/_tools/ant/lib" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="project.build.directory" value="target" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="11" />
+    <property name="ant.project.name" value="roshambo" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="maven.reporting.outputDirectory" value="target/site" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.class.path" value="C:\Users\Owner\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\Owner\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\temp\ldf\rps-ant\target\classes;C:\temp\ldf\rps-ant\target\test-classes;C:\_tools\ant\lib\ant-launcher.jar;C:\_tools\ant\lib\ant.jar;C:\_tools\ant\lib\ant-junit.jar;C:\_tools\ant\lib\ant-junit4.jar" />
+    <property name="java.vm.vendor" value="AdoptOpenJDK" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="https://adoptopenjdk.net/" />
+    <property name="user.timezone" value="" />
+    <property name="maven.build.outputDir" value="target/classes" />
+    <property name="project.build.outputDirectory" value="target/classes" />
+    <property name="java.vm.specification.version" value="11" />
+    <property name="os.name" value="Windows 10" />
+    <property name="maven.build.testResourceDir.0" value="src/test/resources" />
+    <property name="maven.build.resourceDir.0" value="src/main/resources" />
+    <property name="ant.file.roshambo-from-maven" value="C:\temp\ldf\rps-ant\maven-build.xml" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.boot.library.path" value="C:\_tools\jdk11\bin" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.mcnz.rps.GameSummaryTest skipNonTests=false filtertrace=true haltOnError=true haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\temp\ldf\rps-ant\target\test-reports\TEST-com.mcnz.rps.GameSummaryTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=C:\temp\ldf\rps-ant\junitvmwatcher10459434431953812388.properties propsfile=C:\temp\ldf\rps-ant\junit15930215172478911264.properties" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="C:\Users\Owner" />
+    <property name="maven.compiler.source" value="1.8" />
+    <property name="user.language" value="en" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2020-10-20" />
+    <property name="java.home" value="C:\_tools\jdk11" />
+    <property name="maven.build.testOutputDir" value="target/test-classes" />
+    <property name="basedir" value="." />
+    <property name="file.separator" value="\" />
+    <property name="java.vm.compressedOopsMode" value="Zero based" />
+    <property name="maven.build.srcDir.0" value="src/main/java" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="ant.java.version" value="11" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="maven.build.dir" value="target" />
+    <property name="maven.build.testDir.0" value="src/test/java" />
+    <property name="user.script" value="" />
+    <property name="maven.build.finalName" value="roshambo" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="11.0.9+11" />
+    <property name="user.name" value="Owner" />
+    <property name="ant.file" value="C:\temp\ldf\rps-ant\build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="maven.settings.interactiveMode" value="true" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="ant.project.invoked-targets" value="package" />
+    <property name="ant.file.roshambo" value="C:\temp\ldf\rps-ant\build.xml" />
+    <property name="project.build.sourceEncoding" value="UTF-8" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="java.vendor.version" value="AdoptOpenJDK" />
+    <property name="ant.core.lib" value="C:\_tools\ant\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="https://github.com/AdoptOpenJDK/openjdk-support/issues" />
+    <property name="java.io.tmpdir" value="C:\Users\Owner\AppData\Local\Temp\" />
+    <property name="ant.file.type.roshambo-from-maven" value="file" />
+    <property name="java.version" value="11.0.9" />
+    <property name="user.dir" value="C:\temp\ldf\rps-ant" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="maven.test.reports" value="target/test-reports" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="ant.home" value="C:/_tools/ant" />
+    <property name="junit.present" value="true" />
+    <property name="maven.settings.offline" value="false" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="maven.compiler.target" value="1.8" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.9 compiled on September 27 2020" />
+    <property name="java.library.path" value="C:\_tools\jdk11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Owner\bin;C:\_tools\git\mingw64\bin;C:\_tools\git\usr\local\bin;C:\_tools\git\usr\bin;C:\_tools\git\usr\bin;C:\_tools\git\mingw64\bin;C:\_tools\git\usr\bin;C:\Users\Owner\bin;C:\Program Files (x86)\VMware\VMware Player\bin;C:\_tools\jdk11\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Skype\Phone;C:\WINDOWS\System32\OpenSSH;C:\_tools\git\cmd;C:\_tools\git\mingw64\bin;C:\_tools\git\usr\bin;C:\_tools\maven\bin;C:\_tools\gradle\bin;C:\_tools\ant\bin;C:\Users\Owner\AppData\Local\Microsoft\WindowsApps;C:\_tools\git\usr\bin\vendor_perl;C:\_tools\git\usr\bin\core_perl;." />
+    <property name="ant.file.type.roshambo" value="file" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.vendor" value="AdoptOpenJDK" />
+    <property name="java.vm.version" value="11.0.9+11" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="maven.repo.local" value="C:\Users\Owner/.m2/repository" />
+    <property name="java.class.version" value="55.0" />
+    <property name="ant.project.default-target" value="package" />
+  </properties>
+  <testcase classname="com.mcnz.rps.GameSummaryTest" name="testGetClientGesture" time="0.003" />
+  <testcase classname="com.mcnz.rps.GameSummaryTest" name="testGetServerGesture" time="0.001" />
+  <testcase classname="com.mcnz.rps.GameSummaryTest" name="testGetDate" time="0.0" />
+  <testcase classname="com.mcnz.rps.GameSummaryTest" name="testGetResult" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
