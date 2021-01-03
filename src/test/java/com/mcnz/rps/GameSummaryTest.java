@@ -30,5 +30,14 @@ public class GameSummaryTest {
 		GameSummary gameSummary = new GameSummary("rock", "scissors", "win");
 		Assert.assertNotNull(gameSummary.getDate());
 	}
-
+	
+	@Test
+	public void demoTest1() {
+		Assert.assertEquals( 2, 1+1);
+	}
+	
+	@Test
+	public void demoTest2() {
+		Assert.assertEquals( 4, 2*2);
+	}
 }
