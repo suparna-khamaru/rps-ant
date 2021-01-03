@@ -13,12 +13,12 @@ public class FailMeMaybeTest {
 	}
 	
 	@Test
-	public void demoTest1() {
+	public void demoTest3() {
 		Assert.assertEquals( 8, 4+4);
 	}
 	
 	@Test
-	public void demoTest1() {
+	public void demoTest4() {
 		Assert.assertEquals( 2, 2*1);
 	}
 }
